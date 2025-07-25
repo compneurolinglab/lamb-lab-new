@@ -366,9 +366,8 @@ body {
 }
 
 .person-photo {
-    width: auto;
+    width: 120px;
     height: auto;
-    max-width: 100%;
     border-radius: 0;
     object-fit: cover;
     margin: 0 auto 1rem;
