@@ -352,13 +352,6 @@ body {
     margin-top: 2rem;
 }
 
-.multiple-people-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
-    margin-top: 2rem;
-}
-
 .single-people-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
